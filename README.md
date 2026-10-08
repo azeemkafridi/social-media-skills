@@ -4,7 +4,7 @@
 
 # Social Media Skills for AI Agents
 
-17 standalone public skills for **Codex and Claude**: user voice, LinkedIn writing, research, analytics, Reel scripting and Gemini image prompts. This repository is a public toolkit, not the complete private LinkedIn AI OS, its Figma production pipeline, or the maintainer's accounts and configuration.
+18 standalone public skills for **Codex and Claude**: user voice, LinkedIn writing, research, analytics, Reel scripting and Gemini image prompts. This repository is a public toolkit, not the complete private LinkedIn AI OS, its Figma production pipeline, or the maintainer's accounts and configuration.
 
 Built by [Charlie Hills](https://charliehills.substack.com). Subscribe to the [MarTech AI newsletter](https://charliehills.substack.com) for weekly breakdowns of how this system works in practice.
 
@@ -82,7 +82,7 @@ In Codex, ask:
 
 > Use skill-installer to install voice-builder and post-writer from charlie947/social-media-skills, paths skills/voice-builder and skills/post-writer.
 
-Install any of the 17 named folders the same way. The existing installer refuses an existing destination. Continue in a fresh task/turn, confirm the skill appears in the available skills and check its loaded path before use. Installation does not run onboarding or transfer accounts.
+Install any of the 18 named folders the same way. The existing installer refuses an existing destination. Continue in a fresh task/turn, confirm the skill appears in the available skills and check its loaded path before use. Installation does not run onboarding or transfer accounts.
 
 ### Codex: project-local copy
 
